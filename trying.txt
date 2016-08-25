@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>宝宝关怀家长端界面</title>
+<link rel="stylesheet" type="text/css" href="css.css">
+
+</head>
+<body>
+	<div class="all">
+
+
+<div class="box">
+  <div>
+ 	<div id="one">
+ 		<img src="1.png">
+ 	</div>
+ 	<div id="thr">
+ 		<img src="2.png" height="54 px;">
+ 	</div>
+ 	
+ 	<div id="two">
+ 		<div id="bbcare">宝宝关怀</div>
+	</div>
+	
+	<div id="four">
+		<div id="photo">头像</div>
+	</div>
+	
+	<div id="six">
+		<div id="back">返回</div>
+	</div>
+	
+	<div id="five">
+		<div id="bbname">宝宝姓名&nbsp班级</div>
+	</div>
+  </div>
+
+  <div class="content">
+  	<div id="seven">
+  		<div id="receive">接收人：</div>
+
+  	  	<div id="eight">
+    		<div id="teacher">xxx老师、xx老师</div>
+  	    </div>
+
+  		<div id="nine">
+  			<div id="address">通讯录</div>
+ 		</div>
+    </div>
+    
+    <div>
+    
+  
+    <div id="ten">
+    	<div id="alarm">闹钟（2）</div>
+    </div>
+	<div id="eleven">
+		
+		<div id="time">闹钟时间：<div id="timer">2016-5-16 12:00</div>
+		</div>
+	   
+	</div>
+    </div>
+
+
+   <div id="typing">输入...</div>
+   </div>
+
+<div id="thirteen">
+
+
+	<div>
+		<input id="send" type="submit" name="button"value="发送">
+	</div>
+	<div>
+		<input id="cancel" type="submit" name="button" value="取消">
+    </div>
+
+
+	<div id="bbhistory">宝宝关怀历史</div>
+    <div class="receivetime">2016-5-15&nbsp08:12:50&nbsp接收人：xx老师&nbsp闹钟：12:00</div>
+    <div id="text">
+    	&nbsp内容：老师，宝宝需要在中午的时候吃感冒药哦！
+    <br/>&nbsp老师回复：我会按时给他吃的。<span>09:20:35</span>
+    </div>
+
+</div>
+
+<div class="receivetime">2016-5-02&nbsp08:22:45&nbsp接收人：xx老师&nbsp闹钟：12:00</div>
+<div id="footer">&nbsp内容：老师，宝宝需要在中午的时候吃感冒药哦！</div>
+
+</div>
+</div>
+</body>
+</html>
